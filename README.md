@@ -2,8 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0245A3&height=280&section=header&text=Nayu%20Github!&fontSize=85&fontColor=FDFDFD)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnayu1105&count_bg=%235991DF&title_bg=%231256B4&icon=iconify.svg&icon_color=%23FDFDFD&title=hits&edge_flat=false)](https://github.com/nayu1105)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayu1105&show_icons=true&theme=default) 
 &nbsp; [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyj3230)](https://solved.ac/nyj3230)
 
