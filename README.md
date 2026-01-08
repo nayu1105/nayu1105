@@ -2,8 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0245A3&height=280&section=header&text=Nayu%20Github!&fontSize=85&fontColor=FDFDFD)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayu1105&show_icons=true&theme=default) 
-&nbsp; [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyj3230)](https://solved.ac/nyj3230)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=nyj3230)](https://solved.ac/nyj3230)
 
 ## :stars: Skills
 
